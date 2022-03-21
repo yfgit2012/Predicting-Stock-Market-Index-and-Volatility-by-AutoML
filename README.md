@@ -7,10 +7,10 @@ We wrote a research paper and published at the below sites, welcome feedback and
 - SSRN: https://ssrn.com/abstract=3866415
 - ResearchGate: http://dx.doi.org/10.13140/RG.2.2.22245.12008  
  
-### VIX level time series prediction with multiple regression algorithms
+### SPX and VIX time series prediction with multiple regression algorithms
 
-Daily prediction of VIX level based on the VIX time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance. <br><br>
-This method can be used for other indexes (SPX, FTSE), ETFs (SPY, QQQ, ...), and single stock level and return prediction. 
+Daily prediction of SPX return and VIX level based on the time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance. <br><br>
+This method can be used for other index funcs, ETFs (SPY, VOO, QQQ, ...), and single stock level/return prediction. 
 
 ### Recent ML based FinTech research literature
 
