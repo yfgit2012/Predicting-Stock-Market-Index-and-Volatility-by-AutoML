@@ -1,4 +1,4 @@
-# VIX with AutoML: Predicting VIX with Adaptive Machine Learning 
+# VIX return signal prediction with AutoML  
 
 Daily prediction of VIX return signal based on economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance. <br><br>
 We wrote a research paper and published at the below sites, welcome feedback and comment <br>
