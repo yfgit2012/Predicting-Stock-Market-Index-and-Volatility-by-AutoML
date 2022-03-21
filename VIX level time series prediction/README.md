@@ -1,6 +1,6 @@
-# VIX level time series prediction with multiple regression algorithms
+# SPX and VIX time series prediction with multiple regression algorithms
 
-Daily prediction of VIX level based on the VIX (daily open) time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance.
+Daily prediction of SPX return and VIX level based on the time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance.
 
 ![AB](https://github.com/xlgit2012/ML-fintech-repo/blob/main/VIX%20level%20time%20series%20prediction/results/VIX%20level%20prediction%20by%20AB%20(2018-2020).png)
 ![XB](https://github.com/xlgit2012/ML-fintech-repo/blob/main/VIX%20level%20time%20series%20prediction/results/VIX%20level%20prediction%20by%20XB%20(2018-2020).png)
@@ -11,4 +11,4 @@ Daily prediction of VIX level based on the VIX (daily open) time series and econ
 ![RNN](https://github.com/xlgit2012/ML-fintech-repo/blob/main/VIX%20level%20time%20series%20prediction/results/VIX%20level%20prediction%20by%20LSTM%20(2018-2020).png)
 ![AG](https://github.com/xlgit2012/ML-fintech-repo/blob/main/VIX%20level%20time%20series%20prediction/results/VIX%20level%20prediction%20by%20AG%20(2018-2020).png)
 
-This method can be used for other indexes (SPX, FTSE), ETFs (SPY, QQQ, ...), and single stock level and return prediction.
+This method can be used for other index funcs, ETFs (SPY, VOO, QQQ, ...), and single stock level/return prediction.
