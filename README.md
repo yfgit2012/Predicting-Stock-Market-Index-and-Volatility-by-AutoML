@@ -11,6 +11,13 @@ CBOE implied volatility index (VIX) daily return signal prediction based on econ
 
 ![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/6c999fa4-aadb-4b0f-bcfe-27a476414c9a)
 
+#### Feature importance analysis   
+
+SHAP Summary Plot          |  SHAP Dependence Plot
+:-------------------------:|:-------------------------:
+![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/78220ee1-042b-48ef-af1d-d1ff010e10d4) | ![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/b8a2235d-dbd1-4395-8927-1bdb4e87d29a)
+
+
 #### Simulated long-short strategy performance    
 The mean daily return in the 11 years between 2010 and 2020. The return is calculated by applying the predicted signal to the next day's VIX return. The diamond is the mean return.    
 
