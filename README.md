@@ -11,11 +11,14 @@ CBOE implied volatility index (VIX) daily return signal prediction based on econ
 
 ![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/6c999fa4-aadb-4b0f-bcfe-27a476414c9a)
 
-#### Feature importance analysis   
+#### Feature importance analysis by SHAP value  
 
-SHAP Summary Plot          |  SHAP Dependence Plot
+SHAP Summary Plot          | SHAP Dependence Plot 
 :-------------------------:|:-------------------------:
 ![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/78220ee1-042b-48ef-af1d-d1ff010e10d4) | ![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/b8a2235d-dbd1-4395-8927-1bdb4e87d29a)
+
+SHAP Force Plot  
+![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/75bfdb26-279c-4025-8f8c-377e9dd67d2f)
 
 
 #### Simulated long-short strategy performance    
