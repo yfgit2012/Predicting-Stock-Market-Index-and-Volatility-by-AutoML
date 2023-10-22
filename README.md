@@ -30,7 +30,11 @@ We wrote [research paper](https://ssrn.com/abstract=3866415) and [white paper](h
  
 ### SPX and VIX daily return prediction 
 
-Daily prediction of SPX return and VIX level based on the time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance. <br><br>
-This method can be used for other index funcs, ETFs (SPY, VOO, QQQ, ...), and single stock (AAPL, MSFT, TSLA, GOOGL, ...) level/return prediction. 
+SPX and VIX daily return prediction based on time series of economic and finance variables using Random Forest, Recurrent Neural Network(LSTM) and [AutoGluon-Time Series](https://arxiv.org/abs/2308.05566) ([PDF](https://arxiv.org/pdf/2308.05566.pdf)). <br><br>
+
+![image](https://github.com/yfgit2012/Predicting-Stock-Market-Index-and-Volatility-by-AutoML/assets/5380211/bd1e0be5-afff-4889-9cc0-11d36c574842)
+
+This method can be used for other index funcs, ETFs (SPY, VOO, QQQ, ...), and single stock (AAPL, MSFT, TSLA, GOOGL, ...) return prediction. 
+
 
 ### Recent ML based FinTech research literature ([Link](https://github.com/yfgit2012/ML-fintech-repo/tree/main/Literature))
