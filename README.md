@@ -14,19 +14,4 @@ White paper: https://github.com/yfgit2012/ML-fintech-repo/blob/main/VIX%20signal
 Daily prediction of SPX return and VIX level based on the time series and economic and finance variables. Multiple ML algorithms are used with AutoML to optimize the performance. <br><br>
 This method can be used for other index funcs, ETFs (SPY, VOO, QQQ, ...), and single stock (AAPL, MSFT, TSLA, GOOGL, ...) level/return prediction. 
 
-### Recent ML based FinTech research literature
-
-- Arnott, Harvey and Markowitz 2018: A Backtesting Protocol in the Era of Machine Learning
-- Audrino and Hu 2016: Volatility Forecasting: Downside Risk, Jumps and Leverage Effect
-- Bali et al.2021: Option Return Predictability with Machine Learning and Big Data
-- Ballings et al 2015: Evaluating multiple classifiers for stock price direction prediction
-- Bucci 2020: Realized Volatility Forecasting with Neural Networks
-- Degiannakis et al 2018: Forecasting global stock market implied volatility indices
-- Gu Kelly and Xiu 2018: Empirical Asset Pricing via Machine Learning
-- Kelly, Pruitt and Su 2019: Characteristics are covariances: A unified model of risk and return
-- Kozak, Nagel and Santosh 2020: Shrinking the cross-section
-- Krauss Do Huck 2017: Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500
-- Li and Tang 2020: Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms
-- Kong et al 2019: Predicting intraday jumps in stock prices using liquidity measures and technical indicators
-- Rahimikia et al 2020: Machine learning for realised volatility forecasting
-- Yıldırım et al 2021: Forecasting directional movement of Forex data using LSTM with technical and macroeconomic indicators
+### Recent ML based FinTech research literature ([Link](https://github.com/yfgit2012/ML-fintech-repo/tree/main/Literature))
